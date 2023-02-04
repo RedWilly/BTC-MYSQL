@@ -21,7 +21,8 @@ The text file should contain one line for each record to be imported. Each line 
 ### Note
 This script is designed to handle large text files, and imports the data in chunks to avoid exceeding the maximum memory limit. The chunk size can be adjusted in the CHUNK_SIZE constant in the import.js file.
 
-'i will recommend you use LOAD DATA INFILE'
+**I WILL RECOMMEND YOU USE LOAD DATA INFILE WHICH IS INBUILT IN MY SQL **
+
 
 ## Bitcoin Jackpot ( Index.js )
 This script generates and checks Bitcoin addresses using Bitcore-lib and MySQL to see if they exist in a database. If an address exists in the database, the address and its private key are saved to a file named "Jackpot.txt". The script runs continuously for 11 hours and then pauses for 1 hour before resuming again.
