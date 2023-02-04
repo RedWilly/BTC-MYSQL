@@ -21,7 +21,7 @@ The text file should contain one line for each record to be imported. Each line 
 ### Note
 This script is designed to handle large text files, and imports the data in chunks to avoid exceeding the maximum memory limit. The chunk size can be adjusted in the CHUNK_SIZE constant in the import.js file.
 
-**I WILL RECOMMEND YOU USE LOAD DATA INFILE WHICH IS INBUILT IN MY SQL **
+**I WILL RECOMMEND YOU USE LOAD DATA INFILE WHICH IS INBUILT IN MY SQL**
 
 
 ## Bitcoin Jackpot ( Index.js )
