@@ -61,4 +61,5 @@ The run function is called first and sets up an interval to check for matches in
 
 The **simulateMatchFound** function is used to insert test data into the btc500 table to simulate a match being found. This function is called after a delay of 100 milliseconds using the setTimeout function.
 
-Note: This code is for demonstration purposes only and is not suitable for production use.
+
+**ALL: CONTRIBUTER ARE WELCOME** 
