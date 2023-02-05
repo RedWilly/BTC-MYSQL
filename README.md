@@ -5,8 +5,8 @@ This is a Node.js script for importing data into a MySQL database. The script re
 
 ### Prerequisites
 - Node.js
-- MySQL Server
-- A database and table created in the MySQL Server
+- MySQL
+- A database and table created in the MySQL
 
 ### Usage
 1. Clone this repository to your local machine.
